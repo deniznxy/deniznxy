@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Deni 😁
+## Bem-vindo(a) ao perfil do Deni 🌊
 
  <div>
    <a href="https://github.com/deniznxy">
