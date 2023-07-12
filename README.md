@@ -18,7 +18,6 @@
  
 <div> 
   <a href="https://instagram.com/dn.jesus08" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "ddejesussilva273@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  
   ![Snake animation](https://github.com/deniznxy/deniznxy/blob/output/github-contribution-grid-snake.svg)
 
